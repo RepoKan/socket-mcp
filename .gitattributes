@@ -113,3 +113,7 @@ test/fleet/unit/comment-voice.test.mts linguist-generated=true
 # </fleet>
 # <repo>
 # </repo>
+dist/** linguist-generated
+build/** linguist-generated
+coverage/** linguist-generated
+search/index.json linguist-generated
